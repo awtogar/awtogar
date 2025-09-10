@@ -1,35 +1,33 @@
-# awaluddin togar
-
-**multidisciplinary designer** • **information systems student**
-
-crafting digital experiences through the lens of visual design and technical implementation. from ui/ux concepts to web development, i bridge creativity with functionality. currently focused on web development with clean aesthetics, bringing visual taste to functional code.
-
-*driven by curiosity, fueled by continuous learning*
-
-## connect
-
-[instagram](https://instagram.com/awtogarr_) • [linkedin](https://linkedin.com/in/awaluddintogar) • [medium](https://medium.com/@awaludintogar) • [reddit](https://reddit.com/user/garristatic)
-
-## tools
-
-**web** → html5  
-**design** → figma, affinity designer  
-**adobe** → photoshop, illustrator, lightroom
-
-## stats
-
 <div align="center">
-
-![github stats](https://github-readme-stats.vercel.app/api?username=awtogar&show_icons=true&theme=minimal&hide_border=true&bg_color=00000000)
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awtogar&layout=compact&theme=minimal&hide_border=true&bg_color=00000000)
-
+  <img src="https://avatars.githubusercontent.com/u/74636906?v=4" width="100" />
 </div>
+
+<h1 align="center">Awaluddin Togar</h1>
+<h3 align="center">Multidisciplinary Designer & Information Systems Student</h3>
+
+<p align="center">
+  Crafting digital experiences at the intersection of visual design and technical implementation. I specialize in bridging creativity with functionality, from UI/UX concepts to clean web development.
+</p>
 
 ---
 
+### Connect
+
+[**LinkedIn**](https://linkedin.com/in/awaluddintogar) • [**Instagram**](https://instagram.com/awtogarr_) • [**Medium**](https://medium.com/@awaludintogar) • [**Reddit**](https://reddit.com/user/garristatic)
+
+---
+
+### Tools
+
+**Web** HTML5, CSS3, JavaScript, React <br>
+**Design** Figma, Affinity Designer <br>
+**Adobe** Photoshop, Illustrator, Lightroom
+
+---
+
+### GitHub Stats
+
 <div align="center">
-
-*building at the crossroads of technology and creativity*
-
+  <img src="https://github-readme-stats.vercel.app/api?username=awtogar&show_icons=true&theme=minimal&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awtogar&layout=compact&theme=minimal&hide_border=true&bg_color=00000000" />
 </div>
