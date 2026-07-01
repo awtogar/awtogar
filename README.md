@@ -1,33 +1,13 @@
-<h1 align="center">Awaluddin Togar</h1>
-
-<p align="center">
-  Multidisciplinary designer and information systems student. <br>
-  I build with code and design with purpose.
-</p>
-
----
-
-### **Connect with me**
-
-[**LinkedIn**](https://linkedin.com/in/awaluddintogar) | [**Instagram**](https://instagram.com/awtogarr_) | [**Medium**](https://medium.com/@awaludintogar) | [**Reddit**](https://reddit.com/user/garristatic)
-
----
-
-### **My Toolkit**
-
-**Web** → HTML5, CSS3, JavaScript <br>
-**Design** → Figma, Affinity Designer <br>
-**Adobe** → Photoshop, Illustrator, Lightroom
-
----
-
-### **GitHub Activity**
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awtogar&show_icons=true&theme=minimal&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awtogar&layout=compact&theme=minimal&hide_border=true&bg_color=00000000" />
-</div>
-
-<div align="center">
-  *Driven by curiosity, fueled by continuous learning.*
+  <br>
+  <strong style="font-size: 32px; letter-spacing: 8px; font-weight: 300;">AWALUDDIN TOGAR</strong>
+  <br><br>
+  <span style="font-size: 14px; letter-spacing: 4px; text-transform: uppercase; opacity: 0.6;">A man interested in technology & creativity</span>
+  <br><br>
+  <span style="opacity: 0.2;">— — —</span>
+  <br><br>
+  <a href="https://linkedin.com/in/awaluddintogar"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a>
+  <a href="https://github.com/Awaluddin-Togar"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
+  <a href="mailto:awaludintogar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=000000"/></a>
+  <br><br>
 </div>
