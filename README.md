@@ -40,7 +40,6 @@
       </a>
       <br>GSAP
     </td>
-    <tr>
     <td align="center" width="64">
       <a href="#awtogar-tech">
         <img src="./assets/img/tech/motion.svg" width="32" height="32" alt="Motion">
@@ -71,9 +70,7 @@
       </a>
       <br>Vercel
     </td>
-
   </tr>
-    <tr/>
 </table>
 
 <br>
